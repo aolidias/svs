@@ -1,0 +1,8 @@
+target/
+out/*
+.idea/*
+.slcache/*
+.iml
+svs-grailsPlugins.iml
+svs.iml
+.DS_Store
